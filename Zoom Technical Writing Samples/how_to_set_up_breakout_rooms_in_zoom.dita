@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_set_up_breakout_rooms_in_zoom">
+    <title>How to Set Up Breakout Rooms in Zoom</title>
+    <shortdesc>Here you will learn how to set up Breakout Rooms in Zoom.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the three dots for additional options, then on <b>Breakout
+                        Rooms.</b><image href="../../Desktop/zoom%20im%C3%A1genes/pic%208.jpeg"
+                        id="image_gzb_jsb_v1c"/></cmd>
+            </step>
+            <step>
+                <cmd>A pop-up window will open for you to choose the number of rooms you want to
+                    create. Type the number, hit <b>Assign automatically</b>, then <b>Create.</b>
+                    The <b>Assign automatically</b> option will randomly choose the participants for
+                    each room.<image href="../../Desktop/zoom%20im%C3%A1genes/pic%209.jpeg"
+                        id="image_ipx_btb_v1c"/></cmd>
+            </step>
+            <step>
+                <cmd>Another pop-up window will appear showing the number of rooms and the
+                    participants assigned to each of them. Next, click on <b>Open All
+                        Rooms.</b><image href="../../Desktop/zoom%20im%C3%A1genes/pic%209%20a.jpeg"
+                        id="image_ahp_b3c_v1c"/></cmd>
+            </step>
+            <step>
+                <cmd>Whenever you want to end the separate sessions in the Zoom meeting, click on
+                        <b>Close All Rooms.</b><image
+                        href="../../Desktop/zoom%20im%C3%A1genes/pic%2010.jpeg"
+                        id="image_pyz_hdc_v1c"/></cmd>
+            </step>
+        </steps>
+        <result id="result_ujv_kdc_v1c">You have created separated sessions in the Zoom meeting for
+            participants to work, collaborate, etc., whatever the purpose.</result>
+    </taskbody>
+</task>
