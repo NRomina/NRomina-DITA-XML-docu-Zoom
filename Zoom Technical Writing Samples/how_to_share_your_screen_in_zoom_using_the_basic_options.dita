@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_share_your_screen_in_zoom_using_the_basic_options">
+    <title>How to Share your Screen in Zoom Using the Basic Options</title>
+    <shortdesc>Here you will find instructions about sharing your screen in Zoom.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the <b>Share Screen</b> icon.</cmd>
+            </step>
+            <step>
+                <cmd>A window opens with the different window screens (whiteboard, screen from
+                    IPhone/iPad, and the screens that are opened in your computer) you can
+                    share.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the screen you want to share, then hit <b>Share.</b></cmd>
+            </step>
+        </steps>
+        <result id="result_tgb_bst_w1c">You share your screen and provide visual aid for your
+            presentation.</result>
+    </taskbody>
+</task>

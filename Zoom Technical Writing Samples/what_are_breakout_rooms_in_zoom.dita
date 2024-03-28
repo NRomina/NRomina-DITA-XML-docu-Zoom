@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_are_breakout_rooms_in_zoom">
+    <title>What Are Breakout Rooms in Zoom?</title>
+    <shortdesc>Here you will learn what Breakout Rooms are in Zoom.</shortdesc>
+    <conbody>
+        <p>Breakout rooms are sessions that are split off from the main Zoom meeting. They allow the
+            participants to meet in smaller groups, and are completely isolated in terms of audio
+            and video from the main session.</p>
+    </conbody>
+</concept>

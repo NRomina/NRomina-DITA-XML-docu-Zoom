@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_run_a_zoom_meeting">
+    <title>How to Run a Zoom Meeting</title>
+    <shortdesc>In this section, you will find instructions about running a Zoom meeting.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_qps_dlt_w1c">The desktop app, which offers the best experience, is
+            available for Windows and macOS. Make sure the app is set up in your computer. You can
+            join a meeting without signing in or signing in using a Zoom account, Google, Facebook ,
+            or SSO.</prereq>
+        <steps>
+            <step>
+                <cmd>Start the app.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the <b>New Meeting</b> dropdown menu.</cmd>
+            </step>
+            <step>
+                <cmd>Scroll down and click on your ID number. Choose the <b>Copy Invitation</b>
+                    option.</cmd>
+            </step>
+            <step>
+                <cmd>Share the invitation with the participants to the meeting, then hit the <b>New
+                        Meeting</b> icon to start the meeting.</cmd>
+            </step>
+            <step>
+                <cmd>Once in the meeting, click on <b>Join with Computer Audio</b> to enable your
+                    microphone.</cmd>
+            </step>
+        </steps>
+        <result id="result_lcq_wmt_w1c">You have created and started a new meeting.</result>
+    </taskbody>
+</task>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/lenovo/Desktop/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/lenovo/Desktop/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/lenovo/Desktop/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/lenovo/Desktop/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/lenovo/Desktop/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/lenovo/Documents/Zoom%20Technical%20Writing%20Samples/a_quick_start_guide_to_zoom.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">A Quick Start Guide to Zoom</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">A Quick Start Guide to Zoom</title>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Run a Zoom Meeting"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d101e14">Run a Zoom Meeting</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_zoom"><resourceid appid="what_is_zoom" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">What is Zoom?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn what Zoom is.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_a_zoom_meeting"><resourceid appid="what_is_a_zoom_meeting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">What is a Zoom Meeting?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will find a definitions of a Zoom meeting.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_run_a_zoom_meeting"><resourceid appid="how_to_run_a_zoom_meeting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">How to Run a Zoom Meeting</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">In this section, you will find instructions about running a Zoom meeting.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="features_of_the_zoom_meeting_main_view"><resourceid appid="features_of_the_zoom_meeting_main_view" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Features of the Zoom Meeting Main View</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">In this section, you will find a table describing the features of the Zoom meeting         main view.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Share Your Screen"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d101e60">Share Your Screen</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_share_your_screen_in_zoom_using_the_basic_options"><resourceid appid="how_to_share_your_screen_in_zoom_using_the_basic_options" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">How to Share your Screen in Zoom Using the Basic Options</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will find instructions about sharing your screen in Zoom.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Set up Breakout Rooms"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d101e73">Set up Breakout Rooms</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_are_breakout_rooms_in_zoom"><resourceid appid="what_are_breakout_rooms_in_zoom" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">What Are Breakout Rooms in Zoom?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn what Breakout Rooms are in Zoom.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_set_up_breakout_rooms_in_zoom"><resourceid appid="how_to_set_up_breakout_rooms_in_zoom" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">How to Set up Breakout Rooms in Zoom</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to set up Breakout Rooms in Zoom.</shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d101e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Run a Zoom Meeting</ph></title><concept class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="what_is_zoom" oid="what_is_zoom" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Zoom?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn what Zoom is.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Zoom is a video conferencing platform that can be used through a computer desktop or
+            mobile app, and allows users to connect online for video conference meetings, webinars
+            and live chat.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="what_is_a_zoom_meeting" oid="what_is_a_zoom_meeting" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is a Zoom Meeting?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will find a definitions of a Zoom meeting.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">A Zoom Meeting refers to a video conferencing meeting that's hosted using Zoom. You can
+            join these meetings via a webcam or phone.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="how_to_run_a_zoom_meeting" oid="how_to_run_a_zoom_meeting" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Run a Zoom Meeting</ph></title>
+    <shortdesc class="- topic/shortdesc ">In this section, you will find instructions about running a Zoom meeting.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_3_Connect_42_prereq_qps_dlt_w1c" nd:nd-id="prereq_qps_dlt_w1c">The desktop app, which offers the best experience, is
+            available for Windows and macOS. Make sure the app is set up in your computer. You can
+            join a meeting without signing in or signing in using a Zoom account, Google, Facebook ,
+            or SSO.</prereq>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Start the app.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the <b class="+ topic/ph hi-d/b ">New Meeting</b> dropdown menu.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Scroll down and click on your ID number. Choose the <b class="+ topic/ph hi-d/b ">Copy Invitation</b>
+                    option.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Share the invitation with the participants to the meeting, then hit the <b class="+ topic/ph hi-d/b ">New
+                        Meeting</b> icon to start the meeting.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Once in the meeting, click on <b class="+ topic/ph hi-d/b ">Join with Computer Audio</b> to enable your
+                    microphone.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_3_Connect_42_result_lcq_wmt_w1c" nd:nd-id="result_lcq_wmt_w1c">You have created and started a new meeting.</result>
+    </taskbody>
+</task><reference class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="features_of_the_zoom_meeting_main_view" oid="features_of_the_zoom_meeting_main_view" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Features of the Zoom Meeting Main View</ph></title>
+    <shortdesc class="- topic/shortdesc ">In this section, you will find a table describing the features of the Zoom meeting
+        main view.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_4_Connect_42_table_yz4_snt_w1c" nd:nd-id="table_yz4_snt_w1c" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Zoom Meeting Main View Features</ph></title>
+            <tgroup class="- topic/tgroup " cols="3">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;11:65" xtrf="file:/C:/Users/lenovo/Documents/Zoom%20Technical%20Writing%20Samples/features_of_the_zoom_meeting_main_view.dita" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;12:65" xtrf="file:/C:/Users/lenovo/Documents/Zoom%20Technical%20Writing%20Samples/features_of_the_zoom_meeting_main_view.dita" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;13:65" xtrf="file:/C:/Users/lenovo/Documents/Zoom%20Technical%20Writing%20Samples/features_of_the_zoom_meeting_main_view.dita" style="width:33.3333%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Number</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Features</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">Descripcion</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">1</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">View</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">Opens a dropdown menu with view options.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">2</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Mute</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">Allows you to mute and unmute yourself during a meeting. Also opens a
+                            dropdown menu with different microphone, speaker, and audio
+                            options.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">3</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Stop Video</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">Stops and starts video from your screen.  Includes a dropdown menu
+                            with video options.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">4</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Security</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">Opens a dropdown menu with controls that allow the host and co-host
+                            to enable or disable options to secure and minimize disruptions during a
+                            meeting.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">5</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">Participants</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">Shows the number of participants in the meeting and opens a dropdown
+                            menu with options to invite participants.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">6</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">Chat</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7">Opens a chat in which you can reach one particular participant or
+                            every participant in the meeting.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">7</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">Share Screen</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8">Allows you to share content from your screen. Includes a dropdown
+                            menu with settings for allowing participants to share their
+                            screen.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">8</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">Record</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9">Records the Zoom meeting.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10">9</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10">Breakout Rooms</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10">Splits your Zoom meeting in up to 50 separate sessions.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11">10</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11">Reactions</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11">Shows reaction emojis next to your picture in the main view
+                            screen.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="12">11</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12">Apps</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="12">Shows a menu with the differents apps supported by the premium
+                            version of Zoom. Also opens a dropdown menu with collaboration
+                            options.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="13">12</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="13">Whiteboards</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="13">Opens a window with controls to open a new whiteboard or stored
+                            whiteboards. Includes a dropdown menu with advanced sharing
+                            options.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="14">13</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="14">End</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="14">Finishes the Zoom meeting</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d101e60" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Share Your Screen</ph></title><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="how_to_share_your_screen_in_zoom_using_the_basic_options" oid="how_to_share_your_screen_in_zoom_using_the_basic_options" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Share your Screen in Zoom Using the Basic Options</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will find instructions about sharing your screen in Zoom.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the <b class="+ topic/ph hi-d/b ">Share Screen</b> icon.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">A window opens with the different window screens (whiteboard, screen from
+                    IPhone/iPad, and the screens that are opened in your computer) you can
+                    share.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose the screen you want to share, then hit <b class="+ topic/ph hi-d/b ">Share.</b></cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_5_Connect_42_result_tgb_bst_w1c" nd:nd-id="result_tgb_bst_w1c">You share your screen and provide visual aid for your
+            presentation.</result>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d101e73" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Set up Breakout Rooms</ph></title><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="what_are_breakout_rooms_in_zoom" oid="what_are_breakout_rooms_in_zoom" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What Are Breakout Rooms in Zoom?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn what Breakout Rooms are in Zoom.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Breakout rooms are sessions that are split off from the main Zoom meeting. They allow the
+            participants to meet in smaller groups, and are completely isolated in terms of audio
+            and video from the main session.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="how_to_set_up_breakout_rooms_in_zoom" oid="how_to_set_up_breakout_rooms_in_zoom" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Set up Breakout Rooms in Zoom</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to set up Breakout Rooms in Zoom.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the 3 dots for additional options, then on <b class="+ topic/ph hi-d/b ">Breakout
+                    Rooms.</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">A pop-up window will open for you to choose the number of rooms you want to
+                    create. Type the number, hit <b class="+ topic/ph hi-d/b ">Assign Automatically</b>, then <b class="+ topic/ph hi-d/b ">Create.</b>
+                    The <b class="+ topic/ph hi-d/b ">Assign Automatically</b> option will randomly choose the participants for
+                    each room.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Another pop-up window will open showing the number of rooms and the
+                    participants assigned to each of them. Next, click on <b class="+ topic/ph hi-d/b ">Open All
+                    Rooms.</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Whenever you want to end the separate sessions in the Zoom meeting, click on
+                        <b class="+ topic/ph hi-d/b ">Close All Rooms.</b></cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_7_Connect_42_result_kwn_gvt_w1c" nd:nd-id="result_kwn_gvt_w1c">You have created separate sessions in the Zoom meeting for
+            participants to work, collaborate, etc. whatever the purpose.</result>
+    </taskbody>
+</task></topic></map>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="features_of_the_zoom_meeting_main_view">
+    <title>Features of the Zoom Meeting Main View</title>
+    <shortdesc>In this section, you will find a table describing the features of the Zoom meeting
+        main view.</shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_yz4_snt_w1c">
+            <title>Zoom Meeting Main View Features</title>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Number</entry>
+                        <entry>Features</entry>
+                        <entry>Descripcion</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>1</entry>
+                        <entry>View</entry>
+                        <entry>Opens a dropdown menu with view options.</entry>
+                    </row>
+                    <row>
+                        <entry>2</entry>
+                        <entry>Mute</entry>
+                        <entry>Allows you to mute and unmute yourself during a meeting. Also opens a
+                            dropdown menu with different microphone, speaker, and audio
+                            options.</entry>
+                    </row>
+                    <row>
+                        <entry>3</entry>
+                        <entry>Stop Video</entry>
+                        <entry>Stops and starts video from your screen.  Includes a dropdown menu
+                            with video options.</entry>
+                    </row>
+                    <row>
+                        <entry>4</entry>
+                        <entry>Security</entry>
+                        <entry>Opens a dropdown menu with controls that allow the host and co-host
+                            to enable or disable options to secure and minimize disruptions during a
+                            meeting.</entry>
+                    </row>
+                    <row>
+                        <entry>5</entry>
+                        <entry>Participants</entry>
+                        <entry>Shows the number of participants in the meeting and opens a dropdown
+                            menu with options to invite participants.</entry>
+                    </row>
+                    <row>
+                        <entry>6</entry>
+                        <entry>Chat</entry>
+                        <entry>Opens a chat in which you can reach one particular participant or
+                            every participant in the meeting.</entry>
+                    </row>
+                    <row>
+                        <entry>7</entry>
+                        <entry>Share Screen</entry>
+                        <entry>Allows you to share content from your screen. Includes a dropdown
+                            menu with settings for allowing participants to share their
+                            screen.</entry>
+                    </row>
+                    <row>
+                        <entry>8</entry>
+                        <entry>Record</entry>
+                        <entry>Records the Zoom meeting.</entry>
+                    </row>
+                    <row>
+                        <entry>9</entry>
+                        <entry>Breakout Rooms</entry>
+                        <entry>Splits your Zoom meeting in up to 50 separate sessions.</entry>
+                    </row>
+                    <row>
+                        <entry>10</entry>
+                        <entry>Reactions</entry>
+                        <entry>Shows reaction emojis next to your picture in the main view
+                            screen.</entry>
+                    </row>
+                    <row>
+                        <entry>11</entry>
+                        <entry>Apps</entry>
+                        <entry>Shows a menu with the differents apps supported by the premium
+                            version of Zoom. Also opens a dropdown menu with collaboration
+                            options.</entry>
+                    </row>
+                    <row>
+                        <entry>12</entry>
+                        <entry>Whiteboards</entry>
+                        <entry>Opens a window with controls to open a new whiteboard or stored
+                            whiteboards. Includes a dropdown menu with advanced sharing
+                            options.</entry>
+                    </row>
+                    <row>
+                        <entry>13</entry>
+                        <entry>End</entry>
+                        <entry>Finishes the Zoom meeting</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
